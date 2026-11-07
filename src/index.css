@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-ice text-ink antialiased;
+  font-variant-numeric: tabular-nums;
+}
